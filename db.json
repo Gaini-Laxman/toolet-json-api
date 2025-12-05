@@ -168,5 +168,6 @@
       "userId": 7,
       "status": "IN_PROGRESS"
     }
-  ]
+  ],
+	"notifications": [ ]
 }
